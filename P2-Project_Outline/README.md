@@ -35,3 +35,4 @@ We will need to learn how to create user profiles and store files in the SQL dat
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/sC5BujXl/liftoff-project-board)
+[User Stories ](https://trello.com/b/M3UNF5wr/user-stories-translation-app)
