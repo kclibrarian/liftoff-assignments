@@ -6,7 +6,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 
 ### Overview
-This project will provide a user with the ability to search for a foreign language speaker for specific services - translation, conversation or project review services. The user will be able to filter by language, service and price. The search result will return foreign language speakers matching that search criteria.  The search results will include the name, specialty, price and a short bio about the speaker. The user will then be allowed to select a resource and pay the price displayed. A pop-up window will allow them to pay and once the payment information is entered, the user will see a generic confirmation screen.
+In our global world, people are learning and interacting with different languages more than ever before. Some people need resources for simple translating, while others need certified translators for official documents. People learning new languages benefit from interacting with native speakers to improve their language skills. Regardless of the reason, our app pairs users with native speakers to utilize their language skills.
+
+This project provides users with the ability to search for a native language speaker for specific services - translation, conversation or project review services. The user will be able to filter by language, service and price. The search result will return foreign language speakers matching that search criteria.  The search results will include the name, specialty, price and a short bio about the speaker. The user will then be allowed to select a resource and pay the price displayed. A pop-up window will allow them to pay and once the payment information is entered, the user will see a generic confirmation screen.
 
 ### Features
 User Sign up: Users will be able to create a new profile for themselves, allowing them to track their own documents, based on the language and service.
